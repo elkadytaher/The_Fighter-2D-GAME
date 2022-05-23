@@ -1,0 +1,2 @@
+# The_Fighter-2D-GAME
+ GRAPHIC 2D GAME is a two-dimensional game that consists of a warrior who is moved by the player through the live arrows. The warrior takes coins and fights monsters to move to the second level, where there are obstacles such as fire, water and thorns that kill the warrior if he touches them. You can also press the " x" To make the game fight this game is written using C# language and the warrior has been animated and the script has been added to the Unity engine.
